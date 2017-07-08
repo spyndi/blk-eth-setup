@@ -1,0 +1,21 @@
+WARN [07-08|12:48:21] No etherbase set and no accounts found as default 
+INFO [07-08|12:48:21] Starting peer-to-peer node               instance=Geth/v1.6.5-stable-cf87713d/windows-amd64/go1.8.3
+INFO [07-08|12:48:21] Allocated cache and file handles         database=d:\\BlockChain-Servers\\Ethereum\\Blockchain-1\\geth\\chaindata cache=128 handles=1024
+INFO [07-08|12:48:21] Initialised chain configuration          config="{ChainID: 1 Homestead: 1150000 DAO: 1920000 DAOSupport: true EIP150: 2463000 EIP155: 2675000 EIP158: 2675000 Metropolis: 9223372036854775807 Engine: ethash}"
+INFO [07-08|12:48:21] Disk storage enabled for ethash caches   dir=d:\\BlockChain-Servers\\Ethereum\\Blockchain-1\\geth\\ethash count=3
+INFO [07-08|12:48:21] Disk storage enabled for ethash DAGs     dir=D:\\Users\\GZX434\\AppData\\Ethash                           count=2
+INFO [07-08|12:48:21] Initialising Ethereum protocol           versions="[63 62]" network=5678
+INFO [07-08|12:48:21] Loaded most recent local header          number=0 hash=d4e567…cb8fa3 td=17179869184
+INFO [07-08|12:48:21] Loaded most recent local full block      number=0 hash=d4e567…cb8fa3 td=17179869184
+INFO [07-08|12:48:21] Loaded most recent local fast block      number=0 hash=d4e567…cb8fa3 td=17179869184
+INFO [07-08|12:48:21] Starting P2P networking 
+INFO [07-08|12:48:21] RLPx listener up                         self="enode://b4f4fe6ed92ba199a08ffb1c24214baf3437151531020a89fd83372d4563f3a26066c96c38643915464d45f85f0801c39a981cea081c5eb55d50286e6ca2bda6@[::]:30303?discport=0"
+INFO [07-08|12:48:21] HTTP endpoint opened: http://127.0.0.1:8545 
+INFO [07-08|12:48:21] IPC endpoint opened: \\.\pipe\geth.ipc 
+INFO [07-08|12:51:31] HTTP endpoint closed: http://127.0.0.1:8545 
+INFO [07-08|12:51:31] IPC endpoint closed: \\.\pipe\geth.ipc 
+INFO [07-08|12:51:31] Blockchain manager stopped 
+INFO [07-08|12:51:31] Stopping Ethereum protocol 
+INFO [07-08|12:51:31] Ethereum protocol stopped 
+INFO [07-08|12:51:31] Transaction pool stopped 
+INFO [07-08|12:51:31] Database closed                          database=d:\\BlockChain-Servers\\Ethereum\\Blockchain-1\\geth\\chaindata

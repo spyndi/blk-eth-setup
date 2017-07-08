@@ -1,0 +1,1 @@
+D:\BlockChain-Servers\Ethereum\bin\geth --datadir "d:\BlockChain-Servers\Ethereum\Blockchain-2" --port 30304 --nodiscover --ipcpath "d:\BlockChain-Servers\Ethereum\Blockchain-2\geth.ipc" --networkid 5678 console 2>blockchain-2.log
